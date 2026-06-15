@@ -1,0 +1,14 @@
+# Modelos entrenados / artefactos
+*.pkl
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Gradio
+flagged/
+gradio_cached_examples/
+
+# Sistema
+.DS_Store
